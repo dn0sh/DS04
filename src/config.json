@@ -1,0 +1,5 @@
+{
+  "bot_token": "YOUR_TELEGRAM_BOT_TOKEN_HERE",
+  "ipapi_api_key": "YOUR_IPAPI_API_KEY_HERE",
+  "weather_api_key": "YOUR_WEATHER_API_KEY_HERE"
+}
